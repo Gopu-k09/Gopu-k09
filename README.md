@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gopu-k09
 - 👀 I’m interested in Data Story Telling
 - 🌱 I’m currently learning Datascience
-- 📫 How to reach me email : gopuk0459@gmail.com
+- 📫 How to reach me email : gopukrishnan0459@gmail.com
 - ⚡ Fun fact: I Like Cricket
 
 <!---
