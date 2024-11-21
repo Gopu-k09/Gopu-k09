@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gopu-k09
-- 👀 I’m interested in Data Stories and Machine learning
+- 👀 I’m interested in Datas
 - 🌱 I’m currently learning Datascience
 - 📫 How to reach me email : gopukrishnan0459@gmail.com
 - ⚡ Fun fact: I Like Cricket with Technologies
