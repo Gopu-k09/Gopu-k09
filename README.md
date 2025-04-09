@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gopu-k09
 - 👀 I’m interested in Datas
 - 🌱 I’m currently learning Datascience
-- 📫 How to reach me email : gopukrishnan0459@gmail.com
+- 📫 How to reach me email & contact numbet : gopukrishnan0459@gmail.com , +91 9043911081
 - ⚡ Fun fact: I Like Cricket with Technologies
 
 <!---
